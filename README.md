@@ -9,6 +9,8 @@ I am a Python Developer, Machine Learning Engineer, Data Scientist, Reservoir an
 - 🌱 I’m currently learning ML/AI/DL
 - 👯 I’m looking to collaborate on ML/AI/DL
 - 📫 How to reach me: contepablod@outlook.com - contepablod@gmail.com
+- 💬 Ask me about: Python, ML, DL, and Oil & Gas Industry
+
 
 <!--
 **contepablod/contepablod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
