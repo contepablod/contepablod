@@ -2,9 +2,11 @@
 
 My name is Pablo.
 
-I am a Python Developer, Machine Learning Engineer, Data Scientist, Reservoir and Stimulation Engineer.
+I am a Python Developer, Machine Learning Engineer, Data Scientist, Reservoir and Stimulation Engineer, and Chemical Engineer
 
 10 years of experience in the Oil & Gas Industry
+
+Coding in Python for 4 years.
 
 - 🌱 I’m currently learning ML/AI/DL - Django - SQL
 - 👯 I’m looking to collaborate on ML/AI/DL
