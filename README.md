@@ -14,6 +14,10 @@ Coding in Python for 4 years.
 - 💬 Ask me about: Python, ML, DL, and Oil & Gas Industry
 
 
+
+![Import this](https://user-images.githubusercontent.com/80008587/189157077-c6295841-69a1-4ff4-9f72-655774174ef2.jpg)
+
+
 <!--
 **contepablod/contepablod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
