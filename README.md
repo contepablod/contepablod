@@ -8,7 +8,7 @@ I am a Python Developer, Machine Learning Engineer, Data Scientist, Reservoir an
 
 Coding in Python for 4 years.
 
-Here is my CV: [Pablo Conte CV Resume.pdf](https://github.com/contepablod/contepablod/files/9528029/Pablo.Conte.CV.Resume.pdf)
+Here is my CV: file:///C:/Users/conte/Downloads/Pablo%20Conte%20CV%20Resume(1).pdf
 
 - 🌱 I’m currently learning ML/AI/DL - Django - SQL
 - 👯 I’m looking to collaborate on ML/AI/DL
