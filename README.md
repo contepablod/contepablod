@@ -8,11 +8,14 @@ I am a Python Developer, Machine Learning Engineer, Data Scientist, Reservoir an
 
 Coding in Python for 4 years.
 
-Here is my CV: [Pablo Conte CV Resume(1).pdf](https://github.com/contepablod/contepablod/files/9748426/Pablo.Conte.CV.Resume.1.pdf)
+IBM Quantum Fall Challenge 2022 Top Ten Scored.
+
+Here is my CV: [Pablo Conte CV Resume.pdf](https://github.com/contepablod/contepablod/files/10299362/Pablo.Conte.CV.Resume.pdf)
 
 
 - 🌱 I’m currently learning ML/AI/DL - Django - SQL
 - 👯 I’m looking to collaborate on ML/AI/DL
+
 - 📫 How to reach me: contepablod@outlook.com - contepablod@gmail.com
 - 💬 Ask me about: Python, ML, DL, and Oil & Gas Industry
 
