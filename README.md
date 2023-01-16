@@ -35,9 +35,9 @@ Here is my CV: [Pablo Conte CV Resume.pdf](https://github.com/contepablod/contep
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<contepablod>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contepablod&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<contepablod>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=contepablod&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Import this](https://user-images.githubusercontent.com/80008587/189157077-c6295841-69a1-4ff4-9f72-655774174ef2.jpg)
 
