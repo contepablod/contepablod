@@ -3,7 +3,7 @@
 My name is Pablo.
 
 ![GitHub followers](https://img.shields.io/github/followers/contepablod?style=social)
-https://img.shields.io/github/stars/contepablod?style=social
+![GitHub Stars](https://img.shields.io/github/stars/contepablod?style=social)
 
 
 I am a Python Developer, Machine Learning Engineer, Data Scientist, Reservoir and Stimulation Engineer, and Chemical Engineer
