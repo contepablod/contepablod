@@ -2,6 +2,8 @@
 
 My name is Pablo.
 
+![GitHub followers](https://img.shields.io/github/followers/contepablod?style=social)
+
 I am a Python Developer, Machine Learning Engineer, Data Scientist, Reservoir and Stimulation Engineer, and Chemical Engineer
 
 10 years of experience in the Oil & Gas Industry
