@@ -2,6 +2,7 @@
 
 My name is Pablo.
 <br>
+
 ![GitHub followers](https://img.shields.io/github/followers/contepablod?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/contepablod?style=social)
 <br>
@@ -16,7 +17,7 @@ My name is Pablo.
 
 🔭 Here is my CV: [Pablo Conte CV Resume.pdf](https://github.com/contepablod/contepablod/files/10299362/Pablo.Conte.CV.Resume.pdf)
 <br>
-<br>
+
 🧰 Toolbox:
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda Logo" width="100" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" alt="SKLearn Logo" width="100" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TF Logo" width="50" height="50"/>
@@ -37,6 +38,13 @@ My name is Pablo.
 
 <!-- BLOG-POST-LIST:START -->
 ▶ https://www.linkedin.com/pulse/ibm-quantum-challenge-fall-2022-pablo-conte/
+<!-- BLOG-POST-LIST:END -->
+<br>
+
+📹 Latest Interviews:
+
+<!-- BLOG-POST-LIST:START -->
+▶ https://www.youtube.com/watch?v=1aFnHOMIV6M
 <!-- BLOG-POST-LIST:END -->
 <br>
 
