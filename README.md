@@ -10,15 +10,15 @@ My name is Pablo.
 ![GitHub Stars](https://img.shields.io/github/stars/contepablod?style=social)
 <br>
 <br>
-⚡I am a Python Developer, Machine and Deep Learning Engineer, Data Scientist, Reservoir and Stimulation Engineer, and Chemical Engineer
+⚡I am a Python Developer, Machine & Deep Learning Engineer, Data Scientist, Reservoir & Stimulation Engineer, and Chemical Engineer 🧑‍🏫.
 
 ⚡Living in Argentina 🇦🇷.
 
-⚡10 years of experience in the Oil & Gas Industry
+⚡10 years of experience in the Oil & Gas Industry 👨‍🏭.
 
-⚡Coding in Python for 4 years.
+⚡Coding in Python for 4 years 👨‍💻.
 
-⚡IBM Quantum Fall Challenge 2022 Top Ten Scored.
+⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :atom:.
 
 🔭 Here is my CV: [Pablo Conte CV Resume.pdf](https://github.com/contepablod/contepablod/files/10299362/Pablo.Conte.CV.Resume.pdf)
 <br>
