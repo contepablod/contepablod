@@ -10,6 +10,8 @@ My name is Pablo.
 <br>
 ⚡I am a Python Developer, Machine and Deep Learning Engineer, Data Scientist, Reservoir and Stimulation Engineer, and Chemical Engineer
 
+⚡Living in Argentina 🇦🇷.
+
 ⚡10 years of experience in the Oil & Gas Industry
 
 ⚡Coding in Python for 4 years.
@@ -24,7 +26,7 @@ My name is Pablo.
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda Logo" width="100" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" alt="SKLearn Logo" width="100" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TF Logo" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="PyTorch Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy Logo" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" alt="Pandas Logo" width="125" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" alt="SQL Logo" width="100" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GIT Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GIT Logo" width="50" height="50"/>
 <br>
 
 ⚡ For further info:
