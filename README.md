@@ -24,7 +24,6 @@ My name is Pablo.
 
 ⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :atom:.
 
-<br>
 ⚡ For further info:
 
 - 🌱 I’m currently learning ML/AI/DL - Django - SQL
