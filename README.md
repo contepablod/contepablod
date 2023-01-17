@@ -3,6 +3,10 @@
 # Hi there 👋
 
 My name is Pablo.
+
+[![Pablo Conte CV Resume.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/10299362/Pablo.Conte.CV.Resume.pdf)&nbsp;&nbsp;
+[![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=contepablod)
@@ -19,8 +23,6 @@ My name is Pablo.
 ⚡Coding in Python for 4 years 👨‍💻.
 
 ⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :atom:.
-
-🔭 Here is my CV: [Pablo Conte CV Resume.pdf](https://github.com/contepablod/contepablod/files/10299362/Pablo.Conte.CV.Resume.pdf)
 
 <br>
 ⚡ For further info:
