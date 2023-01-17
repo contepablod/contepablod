@@ -39,14 +39,14 @@ My name is Pablo.
 
 <br><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" alt="SKLearn Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TF Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="PyTorch Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" alt="Pandas Logo" width="125" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1200px-Qiskit-Logo.svg.png" alt="Qiskit Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" alt="SQL Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GIT Logo" width="50" height="50"/>
 
-📘 Latest LinkedIn Articles:
+<br>📘 Latest LinkedIn Articles:
 
 <!-- BLOG-POST-LIST:START -->
 ▶ https://www.linkedin.com/pulse/ibm-quantum-challenge-fall-2022-pablo-conte/
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-📹 Latest Interviews:
+
+<br>📹 Latest Interviews:
 
 <!-- BLOG-POST-LIST:START -->
 ▶ https://www.youtube.com/watch?v=1aFnHOMIV6M
