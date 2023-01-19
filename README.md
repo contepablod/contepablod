@@ -41,7 +41,7 @@
 <br>
 <br>
 ## &#x2139; Additional Info
-📘 Latest LinkedIn Articles:
+📝 Latest LinkedIn Articles:
 
 ▶ https://www.linkedin.com/pulse/ibm-quantum-challenge-fall-2022-pablo-conte/
 
