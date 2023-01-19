@@ -49,13 +49,6 @@
 
 ▶ https://www.youtube.com/watch?v=1aFnHOMIV6M
 
-<!-- [![Interview with Colegio Bourbaki in Spanish]] -->
-<!-- <div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/{{1aFnHOMIV6M}}" 
-    frameborder="0" allowfullscreen></iframe>
-</div>
- -->
 <br>
 
 ## &#x1f4c8; My GitHub Stats
@@ -68,18 +61,3 @@
 
 <br>
 <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math GIF" width="1000" height="500"/>
-
-<!--
-**contepablod/contepablod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
