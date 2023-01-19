@@ -19,17 +19,17 @@
 
 ⚡Living in Argentina 🇦🇷.
 
-⚡10 years of experience in the Oil & Gas Industry 👨‍🏭.
+⚡10 years of experience in the Oil & Gas Industry :oil_drum:.
 
 ⚡Coding in Python for 4 years 👨‍💻.
 
-⚡Interested in Quantum Computing.
+⚡Interested in Quantum Computing :atom::computer:.
 <br>![Bloch Sphere](https://logosconcarne.files.wordpress.com/2021/01/bloch-hdr.png)
-<br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :atom:.
+<br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
 
 ⚡ For further info:
 
-- 🌱 I’m currently learning ML/AI/DL - Django - SQL
+- 🌱 I’m currently learning ML/AI/DL - Django - SQL - Quantum Computing
 - 👯 I’m looking to collaborate on ML/AI/DL
 - 📫 How to reach me: contepablod@outlook.com - contepablod@gmail.com
 - 💬 Ask me about: Python, ML, DL, and Oil & Gas Industry
