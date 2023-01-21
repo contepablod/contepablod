@@ -1,5 +1,7 @@
 <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-1.gif" alt="Math GIF" width="1000" height="500"/>
 
+"What is unpleasant here, and indeed directly to be objected to, is the use of complex numbers. Ψ is surely fundamentally a real function." Letter from Schrodinger to Lorentz. June 6th, 1926.
+
 # Hi, I am Pablo 👋
 
 <br>
@@ -58,6 +60,9 @@
 <br>
 ### &#x1F4CC; Always remember
 ![Import this](https://user-images.githubusercontent.com/80008587/189157077-c6295841-69a1-4ff4-9f72-655774174ef2.jpg)
-
+<br>
+<br>
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/2180421-Georg-Cantor-Quote-The-essence-of-mathematics-lies-precisely-in.jpg" alt="Cantor Quote" width="1000" height="500"/>
+<br>
 <br>
 <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math GIF" width="1000" height="500"/>
