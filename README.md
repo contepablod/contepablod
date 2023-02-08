@@ -31,6 +31,8 @@
 <br>![Bloch Sphere](https://logosconcarne.files.wordpress.com/2021/01/bloch-hdr.png)
 <br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
 
+⚡Part-time Technical Member at Qualition
+
 ⚡ For further info:
 
 - 🌱 I’m currently learning ML/AI/DL - Django - SQL - Quantum Computing
