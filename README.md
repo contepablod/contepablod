@@ -34,6 +34,7 @@
 <br>⚡QHack 2023 Visualitzation/Plotting Challenge 1st Place Prize :medal_sports:.
 
 ⚡Part-time Technical Member at Qualition
+⚡Mentee at Quantum Open Source Foundation
 
 ⚡ For further info:
 
