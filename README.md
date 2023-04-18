@@ -51,7 +51,7 @@
 📝 Latest LinkedIn Articles:
 
 ▶ https://www.linkedin.com/pulse/quantum-open-source-foundation-application-pablo-conte/?trackingId=%2B9Z4Xx1ARPyXKFODAuVvUw%3D%3D
-▶ https://www.linkedin.com/pulse/ibm-quantum-challenge-fall-2022-pablo-conte/
+<br> ▶ https://www.linkedin.com/pulse/ibm-quantum-challenge-fall-2022-pablo-conte/
 
 <br>📹 Latest Interviews:
 
