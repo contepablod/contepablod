@@ -32,7 +32,7 @@
 <br>⚡IQuHack 2023 Top Fifteen Scored :medal_sports:.
 <br>⚡QHack 2023 Visualitzation/Plotting Challenge 1st Place Prize :medal_sports:.
 <br>⚡Part-time Technical Member at Qualition
-⚡Mentee at Quantum Open Source Foundation
+<br>⚡Mentee at Quantum Open Source Foundation
 
 ⚡ For further info:
 
