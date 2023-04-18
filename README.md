@@ -28,12 +28,10 @@
 ⚡Coding in Python for 4 years 👨‍💻.
 
 ⚡Interested in Quantum Computing :atom::computer:.
-<br>![Bloch Sphere](https://logosconcarne.files.wordpress.com/2021/01/bloch-hdr.png)
 <br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
 <br>⚡IQuHack 2023 Top Fifteen Scored :medal_sports:.
 <br>⚡QHack 2023 Visualitzation/Plotting Challenge 1st Place Prize :medal_sports:.
-
-⚡Part-time Technical Member at Qualition
+<br>⚡Part-time Technical Member at Qualition
 ⚡Mentee at Quantum Open Source Foundation
 
 ⚡ For further info:
@@ -52,6 +50,7 @@
 ## &#x2139; Additional Info
 📝 Latest LinkedIn Articles:
 
+▶ https://www.linkedin.com/pulse/quantum-open-source-foundation-application-pablo-conte/?trackingId=%2B9Z4Xx1ARPyXKFODAuVvUw%3D%3D
 ▶ https://www.linkedin.com/pulse/ibm-quantum-challenge-fall-2022-pablo-conte/
 
 <br>📹 Latest Interviews:
