@@ -27,6 +27,8 @@
 
 ⚡Coding in Python for 4 years 👨‍💻.
 
+⚡Python Developer at Eynes SRL
+
 ⚡Interested in Quantum Computing :atom::computer:.
 <br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
 <br>⚡IQuHack 2023 Top Fifteen Scored :medal_sports:.
