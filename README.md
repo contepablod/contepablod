@@ -15,7 +15,8 @@
 
 ## &#x1FAAA; Personal Info
 
-[PabloConteCVEnglish(1).pdf(https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/11692189/PabloConteCVEnglish.1.pdf)&nbsp;&nbsp;
+
+[[PabloConteCVEnglish(1).pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/11692189/PabloConteCVEnglish.1.pdf)&nbsp;&nbsp;
 [![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
 
 
