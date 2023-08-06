@@ -51,7 +51,10 @@
 ## &#x2139; Additional Info
 📝 Latest LinkedIn Articles:
 
-▶ https://www.linkedin.com/pulse/quantum-open-source-foundation-application-pablo-conte/?trackingId=%2B9Z4Xx1ARPyXKFODAuVvUw%3D%3D
+▶ https://www.linkedin.com/pulse/sobre-el-papel-de-la-intuici%25C3%25B3n-pablo-conte/?trackingId=jZ6r16wiTDiZEpZlb2BsUg%3D%3D
+<br> ▶ https://www.linkedin.com/pulse/from-passion-opportunity-how-womanium-quantum-event-fueled-conte-1f/?trackingId=vSVhtUysTDuyGr4YtWx9DQ%3D%3D
+<br> ▶ https://www.linkedin.com/pulse/from-passion-opportunity-how-womanium-quantum-event-fueled-conte/?trackingId=bCcFw6hbTUye354vT%2BL%2Fpw%3D%3D
+<br> ▶ https://www.linkedin.com/pulse/quantum-open-source-foundation-application-pablo-conte/?trackingId=%2B9Z4Xx1ARPyXKFODAuVvUw%3D%3D
 <br> ▶ https://www.linkedin.com/pulse/ibm-quantum-challenge-fall-2022-pablo-conte/
 
 <br>📹 Latest Interviews:
