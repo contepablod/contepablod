@@ -15,25 +15,25 @@
 
 ## &#x1FAAA; Personal Info
 
-
-[![PabloConteCVEnglish(1).pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/11692189/PabloConteCVEnglish.1.pdf)&nbsp;&nbsp;
+[![PabloConteResume.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/12270486/PabloConteResume.pdf)&nbsp;&nbsp;
 [![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
 
 
-⚡I am a Python Dev, Machine & Deep Learning Engineer, Data Scientist, Reservoir & Stimulation Engineer, and Chemical Engineer 🧑‍🏫.
+⚡I am a Python Developer, Quantum Software Developer, Machine & Deep Learning Engineer, Data Scientist, Reservoir & Stimulation Engineer, and Chemical Engineer 🧑‍🏫.
 
 ⚡Living in Argentina 🇦🇷.
 
 ⚡10 years of experience in the Oil & Gas Industry :oil_drum:.
 
-⚡Coding in Python for 4 years 👨‍💻.
+⚡Coding in Python for almost 5 years 👨‍💻.
 
 ⚡Interested in Quantum Computing :atom::computer:.
-<br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
-<br>⚡IQuHack 2023 Top Fifteen Scored :medal_sports:.
-<br>⚡QHack 2023 Visualitzation/Plotting Challenge 1st Place Prize :medal_sports:.
+<br>⚡Elected for Ms. Sc. in Quantum Computing and Quantum Technologies at the University of Thrace, Greece. Starting October 2023.
 <br>⚡Part-time Technical Member at Qualition
 <br>⚡Mentee at Quantum Open Source Foundation
+<br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
+<br>⚡IQuHack 2023 Top Fifteen Scored :medal_sports:.
+<br>⚡QHack 2023 Visualitzation/Plotting Challenge 1st Place Prize sponsored by Atom Computing :medal_sports:.
 
 ⚡ For further info:
 
