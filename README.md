@@ -15,7 +15,7 @@
 
 ## &#x1FAAA; Personal Info
 
-[![PabloConteResume.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/12270486/PabloConteResume.pdf)&nbsp;&nbsp;
+[![Pabl[PabloConteResume.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/12709557/PabloConteResume.pdf)&nbsp;&nbsp;
 [![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
 
 
@@ -27,13 +27,15 @@
 
 ⚡Coding in Python for almost 5 years 👨‍💻.
 
-⚡Interested in Quantum Computing :atom::computer:.
-<br>⚡Elected for Ms. Sc. in Quantum Computing and Quantum Technologies at the University of Thrace, Greece. Starting October 2023.
-<br>⚡Part-time Technical Member at Qualition
+⚡LinkedIn Top AI Voice 2023
+<br>⚡Elected for Ms. Sc. in Quantum Computing and Quantum Technologies at Democritus University of Thrace (DUTh), Greece. Starting October 2023:atom::computer:.
+<br>⚡Part-time Technical Fellow at QuantumQuipu
 <br>⚡Mentee at Quantum Open Source Foundation
-<br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
-<br>⚡IQuHack 2023 Top Fifteen Scored :medal_sports:.
+<br>⚡Part-time Technical Member at Qualition
+
 <br>⚡QHack 2023 Visualitzation/Plotting Challenge 1st Place Prize sponsored by Atom Computing :medal_sports:.
+<br>⚡IQuHack 2023 Top Fifteen Scored :medal_sports:.
+<br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
 
 ⚡ For further info:
 
