@@ -28,7 +28,7 @@
 ⚡Coding in Python for almost 5 years 👨‍💻.
 
 ⚡LinkedIn Top AI Voice 2023
-<br>⚡Elected for Ms. Sc. in Quantum Computing and Quantum Technologies at Democritus University of Thrace (DUTh), Greece. Starting October 2023:atom::computer:.
+<br>⚡Elected for Ms. Sc. in Quantum Computing and Quantum Technologies at Democritus University of Thrace (DUTh), Greece - October 2023 :atom::computer:.
 <br>⚡Part-time Technical Fellow at QuantumQuipu
 <br>⚡Mentee at Quantum Open Source Foundation
 <br>⚡Part-time Technical Member at Qualition
