@@ -15,7 +15,8 @@
 
 ## &#x1FAAA; Personal Info
 
-[![PabloConteResume.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/12709557/PabloConteResume.pdf)&nbsp;&nbsp;
+
+[![Resume_PabloConte.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/13302510/Resume_PabloConte.pdf)&nbsp;&nbsp;
 [![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
 
 
@@ -27,8 +28,9 @@
 
 ⚡Coding in Python for almost 5 years 👨‍💻.
 
-⚡LinkedIn Top AI Voice 2023
-<br>⚡Elected for Ms. Sc. in Quantum Computing and Quantum Technologies at Democritus University of Thrace (DUTh), Greece - October 2023 :atom::computer:.
+⚡LinkedIn Community Top AI & Algorithms Voice 2023
+<br>⚡Lecture on Linear Algebra and Basics of Quantum Computing at Qiskit Fall Fest Latino 2023 :atom::computer:.
+<br>⚡Ms. Science Student in Quantum Computing and Quantum Technologies at Democritus University of Thrace (DUTh), Greece :atom::computer:.
 <br>⚡Part-time Technical Fellow at QuantumQuipu
 <br>⚡Mentee at Quantum Open Source Foundation
 <br>⚡Part-time Technical Member at Qualition
