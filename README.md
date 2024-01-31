@@ -21,16 +21,13 @@
 
 
 ⚡I am a Python Developer, Quantum Software Developer, Machine & Deep Learning Engineer, Data Scientist, Reservoir & Stimulation Engineer, and Chemical Engineer 🧑‍🏫.
-
 ⚡Living in Argentina 🇦🇷.
-
 ⚡10 years of experience in the Oil & Gas Industry :oil_drum:.
-
 ⚡Coding in Python for almost 5 years 👨‍💻.
-
-⚡LinkedIn Community Top AI & Algorithms Voice 2023
-<br>⚡Lecture on Linear Algebra and Basics of Quantum Computing at Qiskit Fall Fest Latino 2023 :atom::computer:.
+⚡ Machine & Deep Learning Assistant Professor at Colegio de Matemáticas Bourbaki
+<br>⚡LinkedIn Community Top AI & Algorithms Voice 2023
 <br>⚡Ms. Science Student in Quantum Computing and Quantum Technologies at Democritus University of Thrace (DUTh), Greece :atom::computer:.
+<br>⚡Lecture on Linear Algebra and Basics of Quantum Computing at Qiskit Fall Fest Latino 2023 :atom::computer:.
 <br>⚡Part-time Technical Fellow at QuantumQuipu
 <br>⚡Mentee at Quantum Open Source Foundation
 <br>⚡Part-time Technical Member at Qualition
