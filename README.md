@@ -20,20 +20,18 @@
 [![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
 
 
-⚡I am a Python Developer, Quantum Software Developer, Machine & Deep Learning Engineer, Data Scientist, Reservoir & Stimulation Engineer, and Chemical Engineer 🧑‍🏫.
-<br>⚡Living in Argentina 🇦🇷.
-<br>⚡10 years of experience in the Oil & Gas Industry :oil_drum:.
-<br>⚡Coding in Python for almost 5 years 👨‍💻.
+⚡ I am a Python Developer, Quantum Software Developer, Machine & Deep Learning Engineer, Data Scientist, Reservoir & Stimulation Engineer, and Chemical Engineer 🧑‍🏫.
+<br>⚡ Living in Argentina 🇦🇷. 10 years of experience in the Oil & Gas Industry :oil_drum:. Coding in Python for almost 5 years 👨‍💻.
 <br>⚡ Machine & Deep Learning Assistant Professor at Colegio de Matemáticas Bourbaki
-<br>⚡LinkedIn Community Top AI & Algorithms Voice 2023
-<br>⚡Ms. Science Student in Quantum Computing and Quantum Technologies at Democritus University of Thrace (DUTh), Greece :atom::computer:.
-<br>⚡Lecture on Linear Algebra and Basics of Quantum Computing at Qiskit Fall Fest Latino 2023 :atom::computer:.
-<br>⚡Part-time Technical Fellow at QuantumQuipu
-<br>⚡Mentee at Quantum Open Source Foundation
-<br>⚡Part-time Technical Member at Qualition
-<br>⚡QHack 2023 Visualitzation/Plotting Challenge 1st Place Prize sponsored by Atom Computing :medal_sports:.
-<br>⚡IQuHack 2023 Top Fifteen Scored :medal_sports:.
-<br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
+<br>⚡ LinkedIn Community Top AI & Algorithms Voice 2023
+<br>⚡ Ms. Science Student in Quantum Computing and Quantum Technologies at Democritus University of Thrace (DUTh), Greece :atom::computer:.
+<br>⚡ Lecturer on Linear Algebra and Basics of Quantum Computing at Qiskit Fall Fest Latino 2023 :atom::computer:.
+<br>⚡ Part-time Technical Fellow at QuantumQuipu
+<br>⚡ Mentee at Quantum Open Source Foundation
+<br>⚡ Part-time Technical Member at Qualition
+<br>⚡ QHack 2023 Visualitzation/Plotting Challenge 1st Place Prize sponsored by Atom Computing :medal_sports:.
+<br>⚡ IQuHack 2023 Top Fifteen Scored :medal_sports:.
+<br>⚡ IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
 
 ⚡ For further info:
 
@@ -51,15 +49,16 @@
 ## &#x2139; Additional Info
 📝 Latest LinkedIn Articles:
 
-▶ https://www.linkedin.com/pulse/sobre-el-papel-de-la-intuici%25C3%25B3n-pablo-conte/?trackingId=jZ6r16wiTDiZEpZlb2BsUg%3D%3D
-<br> ▶ https://www.linkedin.com/pulse/from-passion-opportunity-how-womanium-quantum-event-fueled-conte-1f/?trackingId=vSVhtUysTDuyGr4YtWx9DQ%3D%3D
-<br> ▶ https://www.linkedin.com/pulse/from-passion-opportunity-how-womanium-quantum-event-fueled-conte/?trackingId=bCcFw6hbTUye354vT%2BL%2Fpw%3D%3D
-<br> ▶ https://www.linkedin.com/pulse/quantum-open-source-foundation-application-pablo-conte/?trackingId=%2B9Z4Xx1ARPyXKFODAuVvUw%3D%3D
-<br> ▶ https://www.linkedin.com/pulse/ibm-quantum-challenge-fall-2022-pablo-conte/
+▶ Is Mathematics discovered or invented?: https://www.linkedin.com/pulse/mathematics-discovered-invented-pablo-conte-k9vkf/?trackingId=uk1NbYWsRlu3ZjWKT3rN9A%3D%3D
+<br> ▶ From Passion to Opportunity: How the Womanium Quantum Scholarship Event Fueled My Quantum Computing Path - Part 5:(https://www.linkedin.com/pulse/from-passion-opportunity-how-womanium-quantum-event-fueled-conte-4f/?trackingId=WcjqTA2YT9u3wv1uks616A%3D%3D)
+<br> ▶ Gauss, Abel, álgebra y topología: https://www.linkedin.com/pulse/gauss-abel-%25C3%25A1lgebra-y-topolog%25C3%25ADa-pablo-conte/?trackingId=UgjgWadYTdqSFXfe5aY4eg%3D%3D
+<br> ▶ Sobre la pedagogía en las matemáticas: https://www.linkedin.com/pulse/sobre-la-pedagog%25C3%25ADa-en-las-matem%25C3%25A1ticas-pablo-conte/?trackingId=UgjgWadYTdqSFXfe5aY4eg%3D%3D
+<br> ▶ Sobre el papel de la intuición: https://www.linkedin.com/pulse/sobre-el-papel-de-la-intuici%25C3%25B3n-pablo-conte/?trackingId=%2B0g5TZB4Q2e%2BepvOCgpXjw%3D%3D
+
 
 <br>📹 Latest Interviews:
 
-▶ https://www.youtube.com/watch?v=1aFnHOMIV6M
+▶  Entrevista con Pablo Conte, Científico de Datos y Desarrollador en Python: https://www.youtube.com/watch?v=1aFnHOMIV6M
 
 <br>
 
