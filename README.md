@@ -15,8 +15,7 @@
 
 ## &#x1FAAA; Personal Info
 
-
-[![Resume_PabloConte.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/13302510/Resume_PabloConte.pdf)&nbsp;&nbsp;
+[![pablo conte-1.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/15501988/pablo.conte-1.pdf)&nbsp;&nbsp;
 [![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
 
 
