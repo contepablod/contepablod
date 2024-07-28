@@ -26,8 +26,6 @@
 <br>⚡ Ms. Science Student in Quantum Computing and Quantum Technologies at Democritus University of Thrace (DUTh), Greece :atom::computer:.
 <br>⚡ Lecturer on Linear Algebra and Basics of Quantum Computing at Qiskit Fall Fest Latino 2023 :atom::computer:.
 <br>⚡ Part-time Technical Fellow at QuantumQuipu
-<br>⚡ Mentee at Quantum Open Source Foundation
-<br>⚡ Part-time Technical Member at Qualition
 <br>⚡ QHack 2023 Visualitzation/Plotting Challenge 1st Place Prize sponsored by Atom Computing :medal_sports:.
 <br>⚡ IQuHack 2023 Top Fifteen Scored :medal_sports:.
 <br>⚡ IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
