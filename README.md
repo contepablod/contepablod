@@ -11,13 +11,8 @@
 ![](https://komarev.com/ghpvc/?username=contepablod)
 ![GitHub followers](https://img.shields.io/github/followers/contepablod?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/contepablod?style=social)
+
 <br>
-
-## &#x1FAAA; Personal Info
-
-[![pablo conte-1.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/15501988/pablo.conte-1.pdf)&nbsp;&nbsp;
-[![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
-
 
 ⚡ I am a Python Developer, Quantum Software Developer, Machine & Deep Learning Engineer, Data Scientist, Reservoir & Stimulation Engineer, and Chemical Engineer 🧑‍🏫.
 <br>⚡ Living in Argentina 🇦🇷. 10 years of experience in the Oil & Gas Industry :oil_drum:. Coding in Python for almost 5 years 👨‍💻.
@@ -38,12 +33,19 @@
 - 💬 Ask me about: Python, ML, DL, Quantum Computing and Oil & Gas Industry
 <br>
 
+## &#x1FAAA; Personal Info
+[![pablo conte-1.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/15501988/pablo.conte-1.pdf)&nbsp;&nbsp;
+[![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
+<br>
+<br>
+
 ## &#x1F9F0; ToolBox
 
 <br><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" alt="SKLearn Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TF Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="PyTorch Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/250px-SCIPY_2.svg.png" alt="Scipy Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://preview.redd.it/c6h7rok9c2v31.jpg?width=960&crop=smart&auto=webp&v=enabled&s=28b62012dbd397ee7b9e11cc310a141957341f78" alt="Pandas Logo" width="150" height="50"/>&nbsp;&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZrFEVNDfC5gE_7citMPRk08TS0D5vMFWpJJAh5fBB2kH9fqGFJ9LM3opeDpCLjouftE&usqp=CAU" alt="Qiskit Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" alt="SQL Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png" alt="Apache Spark Logo" width="100" height="50"/>&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5V_NJGozQpBOydcFATALeXduFI9ipKUkQrQySaWMcHjyEsIFyhHdsH184j6a6sT_m0DI&usqp=CAU" alt="Apache Kafka Logo" width="100" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GIT Logo" width="50" height="50"/>
 <br>
 <br>
-## &#x2139; Additional Info
+
+## 📝 Additional Info
 📝 Latest LinkedIn Articles:
 
 ▶ Is Mathematics discovered or invented?: https://www.linkedin.com/pulse/mathematics-discovered-invented-pablo-conte-k9vkf/?trackingId=uk1NbYWsRlu3ZjWKT3rN9A%3D%3D
