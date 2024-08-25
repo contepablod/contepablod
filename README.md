@@ -63,15 +63,17 @@
 <br>
 
 ## &#x1f4c8; My GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contepablod&layout=compact&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>[![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=contepablod&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<br>
+
 ### &#x1F4CC; Always remember
+
 ![Import this](https://user-images.githubusercontent.com/80008587/189157077-c6295841-69a1-4ff4-9f72-655774174ef2.jpg)
 <br>
-<br>
+
 <img src="https://quotefancy.com/media/wallpaper/3840x2160/2180421-Georg-Cantor-Quote-The-essence-of-mathematics-lies-precisely-in.jpg" alt="Cantor Quote" width="1000" height="500"/>
 <br>
-<br>
+
 <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math GIF" width="1000" height="500"/>
