@@ -10,14 +10,19 @@
 ![GitHub Stars](https://img.shields.io/github/stars/contepablod?style=social)
 
 ⚡ I am a Python Developer, Quantum Software Developer, Machine & Deep Learning Engineer, Data Scientist, Reservoir & Stimulation Engineer, and Chemical Engineer.  
-⚡ Living in Argentina 🇦🇷.  
-⚡ 10 years of experience in the Oil & Gas Industry 🛢️.  
-⚡ Coding in Python for almost 6 years 👨‍💻.  
-⚡ Machine & Deep Learning Assistant Professor @ Colegio de Matemáticas Bourbaki 👨‍🏫  
-⚡ LinkedIn Community Top AI & Algorithms Voice 2023  
+⚡ Living in Argentina 🇦🇷.
+
+⚡ Machine & Deep Learning Assistant Professor @ Colegio de Matemáticas Bourbaki 👨‍🏫.  
 ⚡ Ms. Science Student in Quantum Computing and Quantum Technologies @ Democritus University of Thrace (DUTh), Greece 👨‍🎓 ⚛️ 💻.  
+⚡ EMBA Candidate @ Valar Institute 👨‍🎓.
+
+⚡ LinkedIn Community Top AI & Algorithms Voice 2023.  
+⚡ Coding in Python for almost 6 years 👨‍💻.  
+⚡ 10 years of experience in the Oil & Gas Industry 🛢️.  
+
 ⚡ Lecturer on Linear Algebra and Basics of Quantum Computing at Qiskit Fall Fest Latino 2023 🔢 ⚛️ 💻.  
-⚡ Part-time Technical Fellow at QuantumQuipu.  
+⚡ Part-time Technical Fellow at QuantumQuipu.
+
 ⚡ QHack 2023 Visualization/Plotting Challenge 1st Place Prize sponsored by Atom Computing 🥇.  
 ⚡ IQuHack 2023 Top Fifteen Scored 🥉.  
 ⚡ IBM Quantum Fall Challenge 2022 Top Ten Scored 🥉.
