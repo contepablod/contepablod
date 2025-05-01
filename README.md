@@ -13,11 +13,11 @@
 ⚡ Living in Argentina 🇦🇷.
 
 ⚡ Machine & Deep Learning Assistant Professor @ Colegio de Matemáticas Bourbaki 👨‍🏫.  
-⚡ Ms. Science Student in Quantum Computing and Quantum Technologies @ Democritus University of Thrace (DUTh), Greece 👨‍🎓 ⚛️ 💻.  
+⚡ Quantum Computing and Quantum Technologies M. Sc. @ Democritus University of Thrace (DUTh), Greece 👨‍🎓 ⚛️ 💻.  
 ⚡ EMBA Candidate @ Valar Institute 👨‍🎓.
 
 ⚡ LinkedIn Community Top AI & Algorithms Voice 2023.  
-⚡ Coding in Python for almost 6 years 👨‍💻.  
+⚡ Coding in Python for almost 7 years 👨‍💻.  
 ⚡ 10 years of experience in the Oil & Gas Industry 🛢️.  
 
 ⚡ Lecturer on Linear Algebra and Basics of Quantum Computing at Qiskit Fall Fest Latino 2023 🔢 ⚛️ 💻.  
