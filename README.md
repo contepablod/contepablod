@@ -14,6 +14,7 @@
 
 ⚡ Machine & Deep Learning Assistant Professor @ Colegio de Matemáticas Bourbaki 👨‍🏫.  
 ⚡ Quantum Computing and Quantum Technologies M. Sc. @ Democritus University of Thrace (DUTh), Greece 👨‍🎓 ⚛️ 💻.  
+⚡ PhD Candidate @ University of Patras 👨‍🎓.   
 ⚡ EMBA Candidate @ Valar Institute 👨‍🎓.
 
 ⚡ LinkedIn Community Top AI & Algorithms Voice 2023.  
