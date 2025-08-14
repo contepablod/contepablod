@@ -1,4 +1,6 @@
-<img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-1.gif" alt="Math GIF" width="1000" height="500"/>
+<!-- <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-1.gif" alt="Math GIF" width="1000" height="500"/>-->
+![output1](https://github.com/user-attachments/assets/116472f6-17c7-4c49-8b03-44ee656a46c0)
+
 <strong>"What is unpleasant here, and indeed directly to be objected to, is the use of complex numbers. Ψ is surely fundamentally a real function."</strong> Letter from Schrodinger to Lorentz. June 6th, 1926.
 <br>
 
@@ -69,6 +71,9 @@
   <br>
   <img src="https://quotefancy.com/media/wallpaper/3840x2160/2180421-Georg-Cantor-Quote-The-essence-of-mathematics-lies-precisely-in.jpg" alt="Cantor Quote" width="1000" height="500"/>
   <br>
-  <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math GIF" width="1000" height="500"/>
+<!--   <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math GIF" width="1000" height="500"/> -->
 </div>
+
+![output](https://github.com/user-attachments/assets/202016e2-7dac-4ee0-a71a-945f609e9c00)
+
 <strong>"If you are not completely confused by quantum mechanics, you do not understand it."</strong> John Wheeler
